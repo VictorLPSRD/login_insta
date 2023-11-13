@@ -46,7 +46,7 @@
   text-overflow: ellipsis;
   transform-origin: left;
   font-size: 16px;
-  left: 8px;
+  left: 16px;
   pointer-events: none;
   transition: transform ease-out .1s
 }
