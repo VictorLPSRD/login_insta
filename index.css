@@ -45,8 +45,8 @@
   position: absolute;
   text-overflow: ellipsis;
   transform-origin: left;
-  font-size: 16px;
-  left: 16px;
+  font-size: 12px;
+  left: 8px;
   pointer-events: none;
   transition: transform ease-out .1s
 }
@@ -68,7 +68,7 @@
 
 .content__form input:valid {
   padding: 14px 0 2px 8px;
-  font-size: 16px;
+  font-size: 12px;
 }
 
 .content__or-text {
@@ -132,3 +132,4 @@
 .content__form button:active:not(:hover) {
   background: rgb(0, 149, 246);
   opacity: .7;
+}
